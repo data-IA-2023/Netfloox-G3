@@ -80,7 +80,7 @@ LIMIT 500000''')
         df['averageRating'] =df['averageRating'].astype(str)
         
         # For simplicity,  fill missing values for categorical data with a placeholder and numerical with median
-        df.fillna({'title': 'Unknown', 'director': 'Unknown', 'actor': 'Unknown', 
+        df.fillna({'director': 'Unknown', 'actor': 'Unknown', 
                 'genres': 'Unknown', 'writer': 'Unknown'}, inplace=True)
         
         # Imputing missing numerical values with median
