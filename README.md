@@ -4,6 +4,7 @@ le dossier contient :
 - les documentations techniques des 2 algorithmes
 - la documentation technique de la base de données
 - la documentation technique du streamlit
+- le modèle relationnelle de la base de données
 - deux fichier d'import de donnée (un en notebook, l'autre en application streamlit indépendante
 - le dossier de l'API streamlit
 
