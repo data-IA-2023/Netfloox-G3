@@ -19,4 +19,8 @@ Dans le dossier streamlit:
 lien du trello :
 https://trello.com/invite/b/8qdttoPJ/ATTI995a741cc0be65318e739ad880bdf7ee6519DE44/netfloox
 
+lien de la base de données :
+host=c-groupe3.3i2a7yekjrai5q.postgres.cosmos.azure.com port=5432 dbname=netfloox user=citus password={your_password} sslmode=require
+
+
 
