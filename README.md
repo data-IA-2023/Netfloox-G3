@@ -9,7 +9,7 @@ le dossier contient :
 
 Dans le dossier streamlit:
 - le fichier principal "connexion"
-- la sauvegarde du modèle de prédiction
+- la sauvegarde du modèle de prédiction à dézippé 
 - deux modules :
       - Connexion et déconnexion
       - Algorithme de prédiction 
